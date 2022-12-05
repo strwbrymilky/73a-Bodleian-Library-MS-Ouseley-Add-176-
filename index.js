@@ -32,7 +32,7 @@
     var rc = new L.RasterCoords(map, img)
 
     // set the view on a marker ...
-    map.setView(rc.unproject([4900, 3015]), 1)
+    //map.setView(rc.unproject([4900, 3015]), 1)
 /*
     // add layer control object
     L.control.layers({}, {
@@ -128,7 +128,7 @@
 
         // Make markers clickable
         layer.on('click', function() {
-$("div#contents").animate({scrollTop: (areaTop+100) + "px"});                                            
+          $("div#contents").animate({scrollTop: areaTop + "px"});
         });
 
       })(layer, feature.properties);
