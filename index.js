@@ -128,7 +128,7 @@
 
         // Make markers clickable
         layer.on('click', function() {
-          $("div#contents")$("div#contents").animate({scrollTop: (areaTop+100)
+          $("div#contents").animate({scrollTop: (areaTop+100)
                                                      
         });
 
