@@ -2,7 +2,7 @@
   {"type":"Feature","properties":
     {"id":1,
     "chapter":"Chapter 1: Bodleian Library MS. Ouseley Add. 176 fol. 73a",
-    "zoom":1,
+    "zoom":2,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -65,7 +65,7 @@
   {"type":"Feature","properties":
     {"id":8,
     "chapter":"Chapter 8: References",
-    "zoom":1,
+    "zoom":2,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -74,7 +74,7 @@
   {"type":"Feature","properties":
     {"id":9,
     "chapter":"Chapter 9: How to cite this",
-    "zoom":1,
+    "zoom":2,
     "image":"",
     "source-credit":"",
     "source-link":"",
