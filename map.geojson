@@ -55,7 +55,7 @@
     "geometry":{"type":"Point","coordinates":[2743,4465]}},
   {"type":"Feature","properties":
     {"id":7,
-    "chapter":"Chapter 7: Pottery",
+    "chapter":"Chapter 7: After the Battle",
     "zoom":2,
     "image":"",
     "source-credit":"",
@@ -65,19 +65,19 @@
   {"type":"Feature","properties":
     {"id":8,
     "chapter":"Chapter 8: References",
-    "zoom":3,
+    "zoom":1,
     "image":"",
     "source-credit":"",
     "source-link":"",
     "description":"Abdullaeva, F. I., and C. P. Melville. The Persian Book of Kings: Ibrahim Sultan's Shahnama. Oxford: Bodleian Library, 2008.\n\nBlair, Sheila S.\"Timurid Signs of Sovereignty.\" Oriente Moderno 15 (76), no. 2 (1996): 551–76.\n\nEncyclopedia Iranica. \"CLOTHING ix. In the Mongol and Timurid periods.\" Accessed November 20, 2022. https://iranicaonline.org/articles/clothing-ix \n\nGholipour, Soudabeh, and VAHID HEYDARNATTAJ. \"The impact of Timurid gardens in Samarkand on Safavid gardens in Isfahan (Chaharbagh).\" (2016): 5-18. \n\nGolombek, Lisa, Robert B. Mason, and Patty Proctor. \"Safavid Potters’ Marks and the Question of Provenance.\" Iran 39 (2001): 207–36. https://doi.org/10.2307/4300605. \n\nHillenbrand, Robert. \"The Uses of Space in Timurid Painting.\" Timurid Art and Culture: Iran and Central Asia in the Fifteenth Century (1992): 76-102. \n\nLentz, Thomas W. \"Dynastic imagery in early Timurid wall painting.\" Muqarnas 10 (1993): 253-265. \n\nShayestehfar, N. \"Musical instruments in Timurid paintings: An organological approach (Persian miniatures).\" GOYA 295-96 (2003): 245-255."},
-    "geometry":{"type":"Point","coordinates":[0,7150]}},
+    "geometry":{"type":"Point","coordinates":[0,0]}},
   {"type":"Feature","properties":
     {"id":9,
     "chapter":"Chapter 9: How to cite this",
-    "zoom":3,
+    "zoom":1,
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"Mirza, Ahmad Saleem (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder). \"Ibrahim Sultan hunting.\" In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 30, 2022."},
-    "geometry":{"type":"Point","coordinates":[4806,7150]}}
+    "description":"Epp, Ashley (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder). \"Ibrahim Sultan hunting.\" In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 30, 2022."},
+    "geometry":{"type":"Point","coordinates":[0,0]}}
 ]}
