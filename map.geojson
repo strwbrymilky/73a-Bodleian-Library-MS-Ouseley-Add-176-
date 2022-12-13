@@ -53,4 +53,31 @@
     "source-link":"",
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
     "geometry":{"type":"Point","coordinates":[3945,2920]}}
+    {"type":"Feature","properties":
+    {"id":7,
+    "chapter":"Chapter 7: Why So Different?",
+    "zoom":1,
+    "image":"",
+    "source-credit":"",
+    "source-link":"",
+    "description":"\"The preliminary drawings for this work were made early in the spring of 1874. After a careful consideration of the subject, it was determined to locate the point of view so that the city would be seen from the southeast, believing that to be the most advantageous in all respects. Accordingly, the point of site was established on the Illinois side of the river, looking to the northwest, and at sufficient altitude to overlook the roofs of ordinary houses into the streets. A careful perspective, which required a surface of three hundred square feet, was then erected from a correct survey of the city, extending northward from Arsenal Island...\""},
+    "geometry":{"type":"Point","coordinates":[0,0]}},
+  {"type":"Feature","properties":
+    {"id":8,
+    "chapter":"References",
+    "zoom":1,
+    "image":"",
+    "source-credit":"",
+    "source-link":"",
+    "description":"\"The preliminary drawings for this work were made early in the spring of 1874. After a careful consideration of the subject, it was determined to locate the point of view so that the city would be seen from the southeast, believing that to be the most advantageous in all respects. Accordingly, the point of site was established on the Illinois side of the river, looking to the northwest, and at sufficient altitude to overlook the roofs of ordinary houses into the streets. A careful perspective, which required a surface of three hundred square feet, was then erected from a correct survey of the city, extending northward from Arsenal Island...\""},
+    "geometry":{"type":"Point","coordinates":[0,0]}},
+  {"type":"Feature","properties":
+    {"id":9,
+    "chapter":"How to cite this",
+    "zoom":1,
+    "image":"",
+    "source-credit":"",
+    "source-link":"",
+    "description":"\"Epp, Ashley (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder). “The King of Mazandaran changes himself into a rock.” In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 30, 2022.\""},
+    "geometry":{"type":"Point","coordinates":[0,0]}},
     ]}
